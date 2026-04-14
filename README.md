@@ -46,4 +46,10 @@ Then open your browser and go to `http://localhost:4200/`
 
 ---
 
-## 📁 Project Structure
+## 📬 Contact
+
+**Samiya Bibi**
+- Portfolio: [samiya-portfolio.netlify.app](https://samiya-portfolio.netlify.app)
+- GitHub: [@sanikhansanikhan123786-cell](https://github.com/sanikhansanikhan123786-cell)
+- Email: [sanikhansanikhan123786@gmail.com]
+- LinkedIn: [linkedin.com/in/samiya-raja]
